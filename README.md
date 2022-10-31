@@ -11,7 +11,7 @@
 ## Test Results
 
 - Cross Validation Scores:
--- Linear regression model: 0.98997
+- - Linear regression model: 0.98997
 -- Ridge regression model: 0.98997
 
 Lasso regression model: 0.97424
